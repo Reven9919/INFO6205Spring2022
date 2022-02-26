@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53714083-d715-47cb-8c1b-b437a363ff45" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="53714083-d715-47cb-8c1b-b437a363ff45" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment4/src/findtheMinimumandMaximumNumberofNodesbetweenCrticalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/src/BinaryTreeLevelOrderTraversalII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/src/FindLargestValueinEachTreeRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/src/MaximumWidthofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment5/src/findLeavesofBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +131,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -143,7 +165,10 @@
       <workItem from="1645463383179" duration="513000" />
       <workItem from="1645464009878" duration="381000" />
       <workItem from="1645464445143" duration="842000" />
-      <workItem from="1645465396463" duration="326000" />
+      <workItem from="1645465396463" duration="580000" />
+      <workItem from="1645551194111" duration="18000" />
+      <workItem from="1645769684270" duration="473000" />
+      <workItem from="1645893783237" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1645463707370</created>
