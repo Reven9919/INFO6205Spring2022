@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53714083-d715-47cb-8c1b-b437a363ff45" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment4/src/findtheMinimumandMaximumNumberofNodesbetweenCrticalPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment5/Assignment5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment5/src/BinaryTreeLevelOrderTraversalII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment5/src/FindLargestValueinEachTreeRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment5/src/MaximumWidthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment5/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment5/src/findLeavesofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment6/Assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment6/src/LongestUnivaluePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment6/src/LowestCommonAncestorofaBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment6/src/PathSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment6/src/SerializeandDeserializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment6/src/VerticalOrderTraversalofaBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -131,13 +130,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -169,6 +170,8 @@
       <workItem from="1645551194111" duration="18000" />
       <workItem from="1645769684270" duration="473000" />
       <workItem from="1645893783237" duration="142000" />
+      <workItem from="1645894106585" duration="780000" />
+      <workItem from="1646546786809" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1645463707370</created>
@@ -212,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645464306750</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1645894284272</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645894284272</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
